@@ -1,0 +1,21 @@
+.MainBtns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+  @media (max-width: 482px) {
+    .MainBtns {
+      flex-direction: column;
+    }
+  
+    .MainBtns button {
+      width: 100%;
+      max-width: 300px; 
+      margin-top: 5px;
+    }
+  }
+  
