@@ -11,7 +11,6 @@
 - **Mark as Done**: Easily mark tasks as completed with a checkbox.
 - **Delete Tasks**: Remove individual tasks or clear all tasks at once.
 - **Global Actions**: Convert all tasks to uppercase or lowercase, and mark all tasks as done.
-- **Responsive Design**: Optimized for mobile and desktop screens.
 - **Clean UI**: Designed with Material-UI for a polished and professional look.
 
 ---
